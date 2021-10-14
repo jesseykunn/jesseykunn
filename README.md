@@ -7,3 +7,6 @@
 - 🎋 fan de [Gambling school](https://vostfree.tv) & [DémonSlayer](vostfree.tv)
 
 ![image](https://api.creavite.co/out/c9f928ed-a646-433b-b8cb-5ede3ed3a5ac_standard.gif)
+
+![icon](https://github.githubassets.com/images/icons/emoji/electron.png)
+ certfiée par IA inteligencies©️
