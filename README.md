@@ -3,8 +3,5 @@
 - 🌱 je travaille actuellement sur un "crowbot" pour discord !
 - 💞️ je suis ouvert a toute colaboration
 - 📫 vous pouvez me contacter par mail : jessy.delmotte@icloud.com | par discord : Pipou<3#0001 | par instagram : jessyXalicia
-
-<!---
-jesseykunn/jesseykunn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌙 artiste nocturne / proffesionel en "cute"
+- ![image](https://api.creavite.co/out/c9f928ed-a646-433b-b8cb-5ede3ed3a5ac_standard.gif)
