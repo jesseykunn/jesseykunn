@@ -25,6 +25,7 @@
 - 📫 vous pouvez me contacter par mail : jessy.delmotte@icloud.com | par discord : Pipou<3#0001 | par instagram : jessyXalicia
 - 🌙 artiste nocturne / proffesionel en "cute"
 - 🎋 fan de [Gambling school](https://vostfree.tv) & [DémonSlayer](vostfree.tv)
+- 🙋🏽‍♂️ élève a l'e2c de l'artois
 
 Je suis également un passionné et un mainteneur open-source. J'ai beaucoup appris de la communauté open source et j'aime la façon dont la collaboration et le partage des connaissances se sont déroulés grâce à l'open source.
 
