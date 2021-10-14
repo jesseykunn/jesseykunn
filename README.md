@@ -4,4 +4,4 @@
 - 💞️ je suis ouvert a toute colaboration
 - 📫 vous pouvez me contacter par mail : jessy.delmotte@icloud.com | par discord : Pipou<3#0001 | par instagram : jessyXalicia
 - 🌙 artiste nocturne / proffesionel en "cute"
-- ![image](https://api.creavite.co/out/c9f928ed-a646-433b-b8cb-5ede3ed3a5ac_standard.gif)
+![image](https://api.creavite.co/out/c9f928ed-a646-433b-b8cb-5ede3ed3a5ac_standard.gif)
