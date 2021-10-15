@@ -15,14 +15,14 @@
 
 # A propos de moi
 
-- 👋 salut a toi je me présente @jesseykunn
-- 👀 je suis un expert en JavaScript  est aussi en CyberSécuritée
+- 👋 salut à toi je me présente @jesseykunn
+- 👀 je suis un expert en JavaScript et aussi en CyberSécurité
 - 🌱 je travaille actuellement sur un "crowbot" pour discord !
-- 💞️ je suis ouvert a toute colaboration
+- 💞️ je suis ouvert à toute collaboration
 - 📫 vous pouvez me contacter par mail : jessy.delmotte@icloud.com | par discord : Pipou<3#0001 | par instagram : jessyXalicia
-- 🌙 artiste nocturne / proffesionel en "cute"
+- 🌙 artiste nocturne / professionnel en "art mignon"
 - 🎋 fan de [Gambling school](https://vostfree.tv) & [DémonSlayer](vostfree.tv)
-- 🙋🏽‍♂️ élève a l'e2c de l'artois
+- 🙋🏽‍♂️ élève à l'e2c de l'Artois
 
 Je suis également un passionné et un mainteneur open-source. J'ai beaucoup appris de la communauté open source et j'aime la façon dont la collaboration et le partage des connaissances se sont déroulés grâce à l'open source.
 
@@ -31,7 +31,7 @@ Je suis également un passionné et un mainteneur open-source. J'ai beaucoup app
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💼 un travail indépendant ? me joindre par [mail](mailto:jessy.delmotte@icloud.com) :)
-- 💬 demandez-moi n'importe quoi, je suis heureux de vous aider 💮
+- 💬 demandez-moi n'importe quoi, je serai heureux de vous aider 💮
 
 **Language est aplication:**  
 
@@ -52,7 +52,7 @@ CSS          12 mins         ▒░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-si vous aimez ce que je fais, pensez peut-être à m'acheter un café/thé 🥺👉👈
+Si vous aimez ce que je fais, pensez peut-être à m'acheter un café/thé 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/jesseykunn" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
@@ -60,12 +60,12 @@ si vous aimez ce que je fais, pensez peut-être à m'acheter un café/thé 🥺�
 <!-- TODO-IST:START -->
 🏆  700 Karma Points           
 🌸  Completed 0 tasks today           
-✅  8 tache completé           
+✅  8 tâches completées           
 ⏳  plus long combo: 10 jour
 <!-- TODO-IST:END -->
 
 
-📈 Mes statistique GitHub
+# 📈 Mes statistiques GitHub
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jesseykunn&show_icons=true&theme=gotham" alt="jesseykunn" />
 
