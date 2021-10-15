@@ -59,7 +59,7 @@ Si vous aimez ce que je fais, pensez peut-être à m'acheter un café/thé 🥺�
 🚧 **mes stats depuis mon codage:**
 <!-- TODO-IST:START -->
 🏆  700 Karma Points           
-🌸  Completed 0 tasks today           
+🌸  Completed 1 tâche(s) today           
 ✅  8 tâches completées           
 ⏳  plus long combo: 10 jour
 <!-- TODO-IST:END -->
